@@ -94,24 +94,29 @@ The dashboard automatically refreshes every 5 seconds and evaluates the room's e
 
 ### Dashboard
 
-```
-<img width="1520" height="700" alt="image" src="https://github.com/user-attachments/assets/85cf4ca4-21cd-4bb4-85c0-482f5038ceef" />
+<img width="1535" height="697" alt="image" src="https://github.com/user-attachments/assets/3f4e9756-5cd2-400f-87db-3cb960987a49" />
 
+
+```
+images/dashboard.png
 ```
 
 ### Hardware Setup
 
-```
-<img width="582" height="391" alt="image" src="https://github.com/user-attachments/assets/c6155a12-308e-472b-bfd4-609521776a68" />
+<img width="582" height="398" alt="image" src="https://github.com/user-attachments/assets/851eb434-c8d4-471e-93a7-5cf61158cab4" />
 
+
+```
+images/hardware.jpg
 ```
 
 ### Project Setup
 
+<img width="589" height="414" alt="image" src="https://github.com/user-attachments/assets/b1ab59b7-e457-4d54-ac91-c82bc391ad53" />
+
 
 ```
-<img width="592" height="386" alt="image" src="https://github.com/user-attachments/assets/31448193-9395-4576-bf1c-3d2b6c24b902" />
-
+images/cover.jpg
 ```
 
 ---
