@@ -102,8 +102,7 @@ images/dashboard.png
 ```
 
 ### Hardware Setup
-
-<img width="582" height="398" alt="image" src="https://github.com/user-attachments/assets/851eb434-c8d4-471e-93a7-5cf61158cab4" />
+<img width="427" height="512" alt="image" src="https://github.com/user-attachments/assets/201d3cc6-83a0-4114-a232-eb9683d8c369" />
 
 
 ```
@@ -112,7 +111,8 @@ images/hardware.jpg
 
 ### Project Setup
 
-<img width="589" height="414" alt="image" src="https://github.com/user-attachments/assets/b1ab59b7-e457-4d54-ac91-c82bc391ad53" />
+<img width="435" height="517" alt="image" src="https://github.com/user-attachments/assets/88d7ea05-e3b8-4de6-ba98-20ced32a7f98" />
+
 
 
 ```
